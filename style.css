@@ -30,6 +30,7 @@ body {
   display: flex;
   gap: 10px;
 }
+
 .section_body_1 {
   display: flex;
   justify-content: space-between;
@@ -40,19 +41,28 @@ body {
   display: flex;
   justify-content: flex-start;
 }
+
 .row_2_2 {
   display: flex;
   justify-content: center;
 }
+
 .row_2_3 {
   display: flex;
   justify-content: flex-end;
 }
 
 /* Section - 03 */
+.section_body_3 {
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+}
+
 .box_3_1 {
   position: relative;
 }
+
 .box_3_2 {
   position: absolute;
   left: 50%;
@@ -76,10 +86,12 @@ body {
   display: flex;
   justify-content: flex-end;
 }
+
 .row_5_2 {
   display: flex;
   justify-content: center;
 }
+
 .row_5_3 {
   display: flex;
   justify-content: flex-start;
@@ -89,6 +101,7 @@ body {
 .section_6 {
   position: relative;
 }
+
 .box_6_1 {
   bottom: 0;
   right: 0;
@@ -101,6 +114,7 @@ body {
   bottom: 0;
   left: 0;
 }
+
 .box_6_3 {
   position: absolute;
   top: 0;
@@ -111,6 +125,7 @@ body {
 .box_7_1 {
   position: relative;
 }
+
 .box_7_2 {
   position: absolute;
   right: 0;
@@ -139,6 +154,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
 }
+
 .box_9_3 {
   position: absolute;
   bottom: 0;
@@ -170,6 +186,7 @@ body {
   bottom: 0;
   right: 0;
 }
+
 .box_11_3 {
   position: absolute;
   bottom: 10px;
@@ -186,6 +203,7 @@ body {
   bottom: 0;
   right: -40%;
 }
+
 .box_12_3 {
   position: absolute;
   bottom: -16%;
@@ -196,6 +214,7 @@ body {
 .box_13_1 {
   position: relative;
 }
+
 .box_13_5 {
   position: absolute;
   left: 50%;
@@ -206,6 +225,7 @@ body {
 .section_body_14 {
   position: relative;
 }
+
 .box_14_1 {
   top: 0;
   right: 0;
@@ -230,11 +250,13 @@ body {
   top: 0;
   right: 25vw;
 }
+
 .box_15_3 {
   position: absolute;
   bottom: 6vw;
   left: 0;
 }
+
 .box_15_4 {
   position: absolute;
   bottom: 6vw;
